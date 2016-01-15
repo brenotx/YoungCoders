@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Young Coders</title>
+	<script type="text/javascript" src="asserts/js/angular.min.js"></script>
+	<script type="text/javascript" src="asserts/js/angular-route.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="asserts/bootstrap/css/bootstrap-theme.min.css">
+</head>
+<body ng-app="app">
+
+	<div ng-view></div>
+
+	<!-- modules -->
+	<script type="text/javascript" src="app.js"></script>
+	<script type="text/javascript" src="login/login-module.js"></script>
+	<script type="text/javascript" src="professor/professor-module.js"></script>
+
+	<!-- controllers -->
+	<script type="text/javascript" src="login/login-controller.js"></script>
+	<script type="text/javascript" src="professor/professor-controller.js"></script>
+
+	<!-- services -->
+	<script type="text/javascript" src="login/login-service.js"></script>
+	<script type="text/javascript" src="professor/professor-service.js"></script>
+
+	<!-- scripts -->
+	<script type="text/javascript" src="asserts/js/jquery-2.2.0.min.js"></script>
+	<script type="text/javascript" src="asserts/bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>
