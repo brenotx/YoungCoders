@@ -1,5 +1,8 @@
-<div ng-controller="ProfessorCtrl">
-	<ul>
-		<li ng-repeat="professor in professores">{{professor.nome}}</li>
+<div class="col-md-4 col-md-offset-4" ng-controller="ProfessorCtrl">
+	<select ng-model="itemSelecionado" ng-options="item as item for item in disciplinas">
+		<option value="">Selecione...</option>
+	</select>
+	<ul  class="list-group">
+		<li class="list-group-item" ng-repeat="professor in professores | filter: {disciplina: itemSelecionado}">{{professor.nome}} - {{professor.disciplina}}</li>
 	</ul>
 </div>

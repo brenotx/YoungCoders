@@ -1,7 +1,7 @@
 [
 	{
 	"nome" : "Arthur",
-	"disciplina": "Matemática"
+	"disciplina": "Matematica"
 	},
 	{
 	"nome" : "Lucas",
@@ -13,7 +13,7 @@
 	},
 	{
 	"nome" : "Guilherme",
-	"disciplina": "Matemática"
+	"disciplina": "Matematica"
 	},
 	{
 	"nome" : "Enzo",
@@ -25,19 +25,19 @@
 	},
 	{
 	"nome" : "Nicolas",
-	"disciplina": "Física"
+	"disciplina": "Fisica"
 	},
 	{
 	"nome" : "João Pedro",
-	"disciplina": "Matemática"
+	"disciplina": "Matematica"
 	},
 	{
 	"nome" : "Pedro Henrique",
-	"disciplina": "Matemática"
+	"disciplina": "Matematica"
 	},
 	{
 	"nome" : "Henrique",
-	"disciplina": ""
+	"disciplina": "Artes"
 	},
 	{
 	"nome" : "Eduardo",
@@ -45,7 +45,7 @@
 	},
 	{
 	"nome" : "Vitor",
-	"disciplina": "Inglês"
+	"disciplina": "Ingles"
 	},
 	{
 	"nome" : "Pietro",
@@ -53,15 +53,15 @@
 	},
 	{
 	"nome" : "João Vitor",
-	"disciplina": "Inglês"
+	"disciplina": "Ingles"
 	},
 	{
 	"nome" : "Leonardo",
-	"disciplina": "Inglês"
+	"disciplina": "Ingles"
 	},
 	{
 	"nome" : "Caio",
-	"disciplina": "Inglês"
+	"disciplina": "Ingles"
 	},
 	{
 	"nome" : "Lucca",
@@ -73,7 +73,7 @@
 	},
 	{
 	"nome" : "Thiago",
-	"disciplina": "Física"
+	"disciplina": "Fisica"
 	},
 	{
 	"nome" : "João Gabriel",
@@ -85,7 +85,7 @@
 	},
 	{
 	"nome" : "Ryan",
-	"disciplina": "Física"
+	"disciplina": "Fisica"
 	},
 	{
 	"nome" : "Carlos Eduardo",

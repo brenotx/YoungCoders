@@ -16,6 +16,9 @@
 	        })
             .when('/professor', {
               templateUrl: 'professor/professor.html'  
+            })
+            .when('/aluno', {
+                templateUrl: 'aluno/aluno.html'
             });
 	}
 })();
